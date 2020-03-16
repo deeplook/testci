@@ -7,6 +7,7 @@ __license__ = "MIT"
 
 def testci():
     print("Hello world!")
+    return 0
 
 if __name__ == "__main__":
     testci()
